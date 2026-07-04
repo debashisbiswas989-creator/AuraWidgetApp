@@ -1,0 +1,15 @@
+{
+  "folderName": "Essentials",
+  "widgetType": "direct",
+  "grid": { "columns": 3, "rows": 3, "gap": 16, "padding": 16, "borderRadius": 24 },
+  "background": { "bgType": "glass", "bgColor": "#ffffff", "bgOpacity": 15, "bgBlur": 20, "gradientStart": "#ff7e5f", "gradientEnd": "#feb47b", "borderColor": "#ffffff", "borderWidth": 1, "borderOpacity": 20, "hasShadow": true },
+  "label": { "labelColor": "#ffffff", "labelSize": 12, "showLabel": true, "labelFont": "font-sans" },
+  "apps": [
+    { "name": "Spotify", "originalIcon": "music", "color": "#1DB954" },
+    { "name": "Instagram", "originalIcon": "instagram", "color": "#E1306C" },
+    { "name": "Camera", "originalIcon": "camera", "color": "#4A5568" },
+    { "name": "Chat", "originalIcon": "message-square", "color": "#0084FF" },
+    { "name": "Safari", "originalIcon": "compass", "color": "#007AFF" },
+    { "name": "Mail", "originalIcon": "mail", "color": "#EA4335" }
+  ]
+}

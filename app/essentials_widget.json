@@ -1,0 +1,516 @@
+{
+  "grid": {
+    "padding": 16,
+    "borderRadius": 24,
+    "columns": 4,
+    "gap": 16,
+    "rows": 4
+  },
+  "background": {
+    "bgType": "glass",
+    "borderColor": "#ffffff",
+    "borderOpacity": 20,
+    "bgColor": "#ffffff",
+    "borderWidth": 1,
+    "gradientStart": "#ff7e5f",
+    "bgOpacity": 15,
+    "bgBlur": 20,
+    "gradientEnd": "#feb47b",
+    "hasShadow": true
+  },
+  "folderName": "My Cloud Apps",
+  "label": {
+    "labelSize": 12,
+    "labelFont": "font-sans",
+    "labelColor": "#ffffff",
+    "showLabel": true
+  },
+  "widgetType": "direct",
+  "apps": [
+    {
+      "originalIcon": "free_fire",
+      "color": "#FF5500",
+      "name": "Free Fire"
+    },
+    {
+      "originalIcon": "chess",
+      "color": "#7FA650",
+      "name": "Chess"
+    },
+    {
+      "originalIcon": "carrom",
+      "color": "#D2B48C",
+      "name": "Carrom"
+    },
+    {
+      "originalIcon": "sudoku",
+      "color": "#007AFF",
+      "name": "Sudoku"
+    },
+    {
+      "originalIcon": "paytm",
+      "color": "#002E94",
+      "name": "Paytm"
+    },
+    {
+      "originalIcon": "phonepe",
+      "color": "#5F259F",
+      "name": "PhonePe"
+    },
+    {
+      "originalIcon": "google_pay",
+      "color": "#4285F4",
+      "name": "Google Pay"
+    },
+    {
+      "originalIcon": "sbi",
+      "color": "#00A4E4",
+      "name": "SBI"
+    },
+    {
+      "originalIcon": "punjab_national_bank",
+      "color": "#A12830",
+      "name": "Punjab National Bank"
+    },
+    {
+      "originalIcon": "axis_bank",
+      "color": "#971B44",
+      "name": "Axis Bank"
+    },
+    {
+      "originalIcon": "kotak_mahindra_bank",
+      "color": "#ED1C24",
+      "name": "Kotak Mahindra Bank"
+    },
+    {
+      "originalIcon": "coin_dcx",
+      "color": "#152238",
+      "name": "Coin DCX"
+    },
+    {
+      "originalIcon": "amazon",
+      "color": "#FF9900",
+      "name": "Amazon"
+    },
+    {
+      "originalIcon": "flipkart",
+      "color": "#2874F0",
+      "name": "Flipkart"
+    },
+    {
+      "originalIcon": "meesho",
+      "color": "#F43397",
+      "name": "Meesho"
+    },
+    {
+      "originalIcon": "mx_player",
+      "color": "#004B93",
+      "name": "MX Player"
+    },
+    {
+      "originalIcon": "snaptube",
+      "color": "#FFCC00",
+      "name": "SnapTube"
+    },
+    {
+      "originalIcon": "jio_hotstar",
+      "color": "#0A122C",
+      "name": "Jio Hotstar"
+    },
+    {
+      "originalIcon": "music",
+      "color": "#EE415E",
+      "name": "Music"
+    },
+    {
+      "originalIcon": "gallery",
+      "color": "#FF9500",
+      "name": "Gallery"
+    },
+    {
+      "originalIcon": "youtube",
+      "color": "#FF0000",
+      "name": "YouTube"
+    },
+    {
+      "originalIcon": "youtube_music",
+      "color": "#FF0000",
+      "name": "YouTube Music"
+    },
+    {
+      "originalIcon": "google_tv",
+      "color": "#4285F4",
+      "name": "Google TV"
+    },
+    {
+      "originalIcon": "shazam",
+      "color": "#0088FF",
+      "name": "Shazam"
+    },
+    {
+      "originalIcon": "whatsapp",
+      "color": "#25D366",
+      "name": "WhatsApp"
+    },
+    {
+      "originalIcon": "instagram",
+      "color": "#E1306C",
+      "name": "Instagram"
+    },
+    {
+      "originalIcon": "telegram",
+      "color": "#0088CC",
+      "name": "Telegram"
+    },
+    {
+      "originalIcon": "facebook",
+      "color": "#1877F2",
+      "name": "Facebook"
+    },
+    {
+      "originalIcon": "messenger",
+      "color": "#006AFF",
+      "name": "Messenger"
+    },
+    {
+      "originalIcon": "message",
+      "color": "#1A73E8",
+      "name": "Message"
+    },
+    {
+      "originalIcon": "gmail",
+      "color": "#EA4335",
+      "name": "Gmail"
+    },
+    {
+      "originalIcon": "setting",
+      "color": "#757575",
+      "name": "Setting"
+    },
+    {
+      "originalIcon": "calculator",
+      "color": "#FF9500",
+      "name": "Calculator"
+    },
+    {
+      "originalIcon": "files",
+      "color": "#4285F4",
+      "name": "Files"
+    },
+    {
+      "originalIcon": "notes",
+      "color": "#FFCC00",
+      "name": "Notes"
+    },
+    {
+      "originalIcon": "weather",
+      "color": "#00B0FF",
+      "name": "Weather"
+    },
+    {
+      "originalIcon": "calendar",
+      "color": "#EA4335",
+      "name": "Calendar"
+    },
+    {
+      "originalIcon": "speed_test",
+      "color": "#141526",
+      "name": "Speed Test"
+    },
+    {
+      "originalIcon": "security",
+      "color": "#4CAF50",
+      "name": "Security"
+    },
+    {
+      "originalIcon": "clock",
+      "color": "#9C27B0",
+      "name": "Clock"
+    },
+    {
+      "originalIcon": "contact",
+      "color": "#1A73E8",
+      "name": "Contact"
+    },
+    {
+      "originalIcon": "recorder",
+      "color": "#FF5722",
+      "name": "Recorder"
+    },
+    {
+      "originalIcon": "scanner",
+      "color": "#009688",
+      "name": "Scanner"
+    },
+    {
+      "originalIcon": "mi_remote",
+      "color": "#00E5FF",
+      "name": "MI Remote"
+    },
+    {
+      "originalIcon": "compass",
+      "color": "#FFEB3B",
+      "name": "Compass"
+    },
+    {
+      "originalIcon": "downloads",
+      "color": "#607D8B",
+      "name": "Downloads"
+    },
+    {
+      "originalIcon": "battery_temperature",
+      "color": "#FF3D00",
+      "name": "Battery Temperature"
+    },
+    {
+      "originalIcon": "soul_browser",
+      "color": "#1DE9B6",
+      "name": "Soul Browser"
+    },
+    {
+      "originalIcon": "chrome",
+      "color": "#4285F4",
+      "name": "Chrome"
+    },
+    {
+      "originalIcon": "google",
+      "color": "#4285F4",
+      "name": "Google"
+    },
+    {
+      "originalIcon": "photos",
+      "color": "#EA4335",
+      "name": "Photos"
+    },
+    {
+      "originalIcon": "maps",
+      "color": "#34A853",
+      "name": "Maps"
+    },
+    {
+      "originalIcon": "play_store",
+      "color": "#607D8B",
+      "name": "Play Store"
+    },
+    {
+      "originalIcon": "drive",
+      "color": "#34A853",
+      "name": "Drive"
+    },
+    {
+      "originalIcon": "folder_widget",
+      "color": "#673AB7",
+      "name": "Folder Widget"
+    },
+    {
+      "originalIcon": "memory_zone",
+      "color": "#3F51B5",
+      "name": "Memory Zone"
+    },
+    {
+      "originalIcon": "google_lens",
+      "color": "#4285F4",
+      "name": "Google Lens"
+    },
+    {
+      "originalIcon": "everything_widget",
+      "color": "#E91E63",
+      "name": "Everything Widget"
+    },
+    {
+      "originalIcon": "minimal_widget",
+      "color": "#00BCD4",
+      "name": "Minimal Widget"
+    },
+    {
+      "originalIcon": "shortcut_maker",
+      "color": "#9C27B0",
+      "name": "Shortcut Maker"
+    },
+    {
+      "originalIcon": "draw_on_screen",
+      "color": "#FF4081",
+      "name": "Draw on Screen"
+    },
+    {
+      "originalIcon": "ninja_vpn",
+      "color": "#212121",
+      "name": "Ninja VPN"
+    },
+    {
+      "originalIcon": "proton_vpn",
+      "color": "#6D4C41",
+      "name": "Proton VPN"
+    },
+    {
+      "originalIcon": "excel",
+      "color": "#107C41",
+      "name": "Excel"
+    },
+    {
+      "originalIcon": "meet",
+      "color": "#00AC47",
+      "name": "Meet"
+    },
+    {
+      "originalIcon": "google_one",
+      "color": "#4285F4",
+      "name": "Google One"
+    },
+    {
+      "originalIcon": "google_opinion_reward",
+      "color": "#FFC107",
+      "name": "Google Opinion Reward"
+    },
+    {
+      "originalIcon": "adobe_acrobat",
+      "color": "#E53935",
+      "name": "Adobe Acrobat"
+    },
+    {
+      "originalIcon": "canva",
+      "color": "#00C4CC",
+      "name": "Canva"
+    },
+    {
+      "originalIcon": "picsart",
+      "color": "#D81B60",
+      "name": "PicsArt"
+    },
+    {
+      "originalIcon": "testbook",
+      "color": "#0052CC",
+      "name": "Testbook"
+    },
+    {
+      "originalIcon": "nsou",
+      "color": "#003366",
+      "name": "NSOU"
+    },
+    {
+      "originalIcon": "eci_net",
+      "color": "#008080",
+      "name": "ECI NET"
+    },
+    {
+      "originalIcon": "my_ssc",
+      "color": "#303F9F",
+      "name": "My SSC"
+    },
+    {
+      "originalIcon": "digilocker",
+      "color": "#0056B3",
+      "name": "DigiLocker"
+    },
+    {
+      "originalIcon": "umang",
+      "color": "#003399",
+      "name": "Umang"
+    },
+    {
+      "originalIcon": "irctc",
+      "color": "#004B93",
+      "name": "IRCTC"
+    },
+    {
+      "originalIcon": "rail_one",
+      "color": "#007BFF",
+      "name": "Rail One"
+    },
+    {
+      "originalIcon": "confirm_ticket",
+      "color": "#2E7D32",
+      "name": "Confirm Ticket"
+    },
+    {
+      "originalIcon": "where_is_my_train",
+      "color": "#1B5E20",
+      "name": "Where is my train"
+    },
+    {
+      "originalIcon": "aadhar",
+      "color": "#FF9933",
+      "name": "Aadhar"
+    },
+    {
+      "originalIcon": "abha",
+      "color": "#008000",
+      "name": "Abha"
+    },
+    {
+      "originalIcon": "इस",
+      "color": "#4A148C",
+      "name": "इस"
+    },
+    {
+      "originalIcon": "airtel_service",
+      "color": "#E60000",
+      "name": "Airtel Service"
+    },
+    {
+      "originalIcon": "shareme",
+      "color": "#00C853",
+      "name": "ShareMe"
+    },
+    {
+      "originalIcon": "indus_app_store",
+      "color": "#E65100",
+      "name": "Indus App Store"
+    },
+    {
+      "originalIcon": "airtel",
+      "color": "#E60000",
+      "name": "Airtel"
+    },
+    {
+      "originalIcon": "jio",
+      "color": "#0F3DA1",
+      "name": "Jio"
+    },
+    {
+      "originalIcon": "gemini",
+      "color": "#4285F4",
+      "name": "Gemini"
+    },
+    {
+      "originalIcon": "chatgpt",
+      "color": "#10A37F",
+      "name": "ChatGPT"
+    },
+    {
+      "originalIcon": "quix",
+      "color": "#000000",
+      "name": "Quix"
+    },
+    {
+      "originalIcon": "organic_map",
+      "color": "#558B2F",
+      "name": "Organic Map"
+    },
+    {
+      "originalIcon": "pocket_pal",
+      "color": "#795548",
+      "name": "Pocket Pal"
+    },
+    {
+      "originalIcon": "fing",
+      "color": "#111111",
+      "name": "Fing"
+    },
+    {
+      "originalIcon": "bengali_to_english_translator",
+      "color": "#3F51B5",
+      "name": "Bengali to English Translator"
+    },
+    {
+      "originalIcon": "revanced_manager",
+      "color": "#311B92",
+      "name": "Revanced Manager"
+    },
+    {
+      "originalIcon": "micro_g_setting",
+      "color": "#004D40",
+      "name": "Micro G Setting"
+    }
+  ]
+}
