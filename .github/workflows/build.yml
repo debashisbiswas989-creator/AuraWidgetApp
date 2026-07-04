@@ -1,4 +1,4 @@
-name: Build Android APK
+name: Build
 on: [push]
 jobs:
   build:
@@ -11,9 +11,7 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: Build with Gradle
-        run: |
-          chmod +x gradlew
-          ./gradlew clean assembleDebug --no-daemon
+        run: chmod +x gradlew && ./gradlew assembleDebug
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
