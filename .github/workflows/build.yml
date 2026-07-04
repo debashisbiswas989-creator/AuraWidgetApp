@@ -13,9 +13,8 @@ jobs:
       - name: Build with Gradle
         run: |
           chmod +x gradlew
-          # --no-daemon and --stacktrace help us debug, 
-          # while skipping cache avoids the configuration issues
-          ./gradlew clean assembleDebug --no-daemon --no-build-cache
+          # This command includes the flag to allow older dependency behavior
+          ./gradlew clean assembleDebug --no-daemon -Dorg.gradle.internal.allowUnstableMetadata=true
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
