@@ -17,19 +17,6 @@
             </intent-filter>
         </activity>
 
-        <activity 
-            android:name=".AppWidgetConfigureActivity"
-            android:exported="true"
-            android:excludeFromRecents="true"
-            android:noHistory="true"
-            android:launchMode="singleTop"
-            android:taskAffinity="">
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
         <receiver
             android:name=".ui.WidgetCanvasEngine"
             android:exported="true">

@@ -3,5 +3,4 @@
     android:minWidth="100dp"
     android:minHeight="100dp"
     android:updatePeriodMillis="86400000"
-    android:configure="com.aura.widget.AppWidgetConfigureActivity"
     android:initialLayout="@layout/widget_layout" />
