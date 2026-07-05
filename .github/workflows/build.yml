@@ -13,8 +13,8 @@ jobs:
       - name: Build with Gradle
         run: |
           chmod +x gradlew
-          rm -rf app/build/
-          ./gradlew clean assembleDebug --no-daemon
+          # Force a clean and skip incremental compilation
+          ./gradlew clean assembleDebug --no-daemon --no-build-cache
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
