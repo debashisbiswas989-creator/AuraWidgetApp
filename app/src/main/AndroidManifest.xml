@@ -28,5 +28,6 @@
                 android:resource="@xml/widget_info" />
         </receiver>
 
+        <activity android:name=".EditorActivity" android:exported="true" />
     </application>
 </manifest>
