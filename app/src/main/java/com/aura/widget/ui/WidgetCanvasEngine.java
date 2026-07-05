@@ -27,3 +27,4 @@ public class WidgetCanvasEngine extends AppWidgetProvider {
         }
     }
 }
+// Force build
